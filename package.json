@@ -12,6 +12,7 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "dist": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
